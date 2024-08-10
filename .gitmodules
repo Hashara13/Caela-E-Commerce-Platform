@@ -1,0 +1,3 @@
+[submodule "caela-frontend"]
+	path = caela-frontend
+	url = https://github.com/Hashara13/Caela-E-Commerce-Platform.git
